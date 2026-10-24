@@ -1,0 +1,51 @@
+{
+    "active_profile": "default",
+    "profiles": {
+        "default": {
+            "id": "default",
+            "name": "Default",
+            "created_at": 1792768369.3485732,
+            "updated_at": 1792824031.954918,
+            "settings": {
+                "sensitivity_x": 2.5,
+                "sensitivity_y": 2.5,
+                "comfort_range_x": 0.045,
+                "comfort_range_y": 0.045,
+                "dead_zone_radius": 0.008,
+                "cursor_min_movement_px": 1.0,
+                "enable_vertical_cursor": true,
+                "cursor_min_cutoff": 1.0,
+                "cursor_beta": 0.6,
+                "cursor_derivative_cutoff": 1.0,
+                "ear_blink_threshold": 0.19,
+                "ear_open_threshold": 0.22,
+                "ear_blink_ratio": 0.75,
+                "ear_open_ratio": 0.82,
+                "ear_asymmetry_min_diff": 0.02,
+                "wink_min_duration_s": 0.12,
+                "wink_max_duration_s": 0.8,
+                "click_cooldown_s": 0.35,
+                "scroll_enabled": true,
+                "scroll_pitch_threshold": 0.02,
+                "scroll_release_ratio": 0.45,
+                "scroll_speed": 35,
+                "scroll_sensitivity": 1.0,
+                "scroll_interval_s": 0.12,
+                "enable_mouth_gestures": false,
+                "mar_threshold": 0.55,
+                "dwell_click_enabled": false,
+                "dwell_duration_s": 1.0,
+                "keyboard_dwell_enabled": false,
+                "keyboard_dwell_time_s": 1.0
+            },
+            "calibration": {
+                "is_calibrated": true,
+                "neutral_x": 0.48896366357803345,
+                "neutral_y": 0.5982037484645844,
+                "neutral_pitch": 0.34836253055005706,
+                "baseline_left_ear": 0.40750550118733864,
+                "baseline_right_ear": 0.411231585523242
+            }
+        }
+    }
+}
